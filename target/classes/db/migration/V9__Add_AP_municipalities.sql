@@ -1,0 +1,16 @@
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600105, "Amapá", "amapaense", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600204, "Calçoene", "calçoenense", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600212, "Cutias", "cutienses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600238, "Ferreira Gomes", "ferreirense", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600253, "Itaubal", "itaubenses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600279, "Laranjal do Jari", "laranjalense", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600303, "Macapá", "macapaense", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600402, "Mazagão", "mazaganistas", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600501, "Oiapoque", "oiapoquenses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600154, "Pedra Branca do Amaparí", "pedrabrancanienses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600535, "Porto Grande", "portograndenses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600550, "Pracuúba", "pracuubenses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600600, "Santana", "santanenses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600055, "Serra do Navio", "serranavienses", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600709, "Tartarugalzinho", "tartarugalense", 16);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1600808, "Vitória do Jari", "vitorenses", 16);

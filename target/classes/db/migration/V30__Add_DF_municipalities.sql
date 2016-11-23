@@ -1,0 +1,1 @@
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (5300108, "Brasília", "brasiliense", 53);

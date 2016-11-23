@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - ibge@localhost" uuid="164a812a-dbbc-447a-9f80-f6639eccf8f4">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>ibge.*</schema-pattern>
+      <default-schemas>ibge.*</default-schemas>
+    </data-source>
+  </component>
+</project>

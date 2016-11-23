@@ -1,0 +1,5 @@
+CREATE TABLE regions(
+  code INT PRIMARY KEY,
+  name VARCHAR(15) NOT NULL,
+  acronym VARCHAR(2) NOT NULL
+);

@@ -1,0 +1,15 @@
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400050, "Alto Alegre", "alto-alegrense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400027, "Amajari", "amajariense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400100, "Boa Vista", "boa-vistense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400159, "Bonfim", "bonfinense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400175, "Cantá", "cantaense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400209, "Caracaraí", "caracaraiense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400233, "Caroebe", "caroebense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400282, "Iracema", "iracemense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400308, "Mucajaí", "mucajaiense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400407, "Normandia", "normandiense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400456, "Pacaraima", "pacaraimense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400472, "Rorainópolis", "rorainopolitano", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400506, "São João da Baliza", "baliziense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400605, "São Luiz", "são-luizense", 14);
+INSERT INTO municipalities(code, name, gentilic, state) VALUES (1400704, "Uiramutã", "uiramutansense", 14);
